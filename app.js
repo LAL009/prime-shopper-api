@@ -47,7 +47,7 @@ require('./comman/csvUpload')
 //DATABASE
 mongoose = module.exports = require('mongoose');
 
-mongoose.connect('mongodb+srv://mohit:JHrUPabqHjkKhlFt@cluster0.zpihi.mongodb.net/prime_shopper?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect('', { useNewUrlParser: true, useUnifiedTopology: true });
 
 const db = mongoose.connection;
 

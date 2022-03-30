@@ -3,10 +3,10 @@
 
 
 // var data = {
-//     token : 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiNjE0ODcyYjkxMGQ1YTNiZTAzNGY0OGJkIiwiaWF0IjoxNjMyNzIxOTI3fQ.8OdE8Y3uc791Wduj2TciQUDIAsfMXj4Dqh3O8jVXaTk'
+//     token : ''
 // }
 // var msgData = {
-//     token : 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiNjE0ODcyYjkxMGQ1YTNiZTAzNGY0OGJkIiwiaWF0IjoxNjMyNzIxOTI3fQ.8OdE8Y3uc791Wduj2TciQUDIAsfMXj4Dqh3O8jVXaTk',
+//     token : '',
 //     user : '6149b5285d9acbbd518db555',
 //     from : '6149b5285d9acbbd518db555',
 //     to : '6151601af50eab5ec75884b6',

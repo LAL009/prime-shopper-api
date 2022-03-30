@@ -4,9 +4,9 @@ var layouts = require("handlebars-layouts");
 
 var fs = require("fs");
 
-const EMAIL = "kdmakwana43work@gmail.com";
-const PASSWORD = "kd@googlework123146new";
-const FROM_EMAIL = "kdmakwana43work@gmail.com";
+const EMAIL = "";
+const PASSWORD = "";
+const FROM_EMAIL = "";
 
 handlebars.registerHelper(layouts(handlebars));
 handlebars.registerPartial(
@@ -15,8 +15,8 @@ handlebars.registerPartial(
 );
 
 let transporter = nodemailer.createTransport({
-    host: "smtp.gmail.com",
-    port: 465,
+    host: "",
+    port: "",
     secure: true,
     requireTLS: true,
     auth: {
